@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/yolov9Training_matrice/yolov9/data/train
+val: /content/drive/MyDrive/yolov9Training_matrice/yolov9/data/val
+
+nc: 13
+names: ['sling dress','vest','short sleeve dress','short sleeve top','vest dress','trousers','long sleeve top','shorts','skirt','long sleeve dress','long sleeve outwear','short sleeve outwear','sling']
